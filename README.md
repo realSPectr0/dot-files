@@ -7,6 +7,8 @@ My personal dotfiles for Arch Linux. This repository is not actively maintained.
 - **Dank Shell:** [DANK](https://github.com/AvengeMedia/DankMaterialShell)  
 - **Terminal emulator:** [Kitty](https://sw.kovidgoyal.net/kitty/)
 
+*Disclaimer: Not all these dot files are by me. Many of them are from online and altered accordingly.
+
 ## Preview
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/cdb2b218-4791-4b91-96a8-45df2921f24a" />
 
