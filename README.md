@@ -1,3 +1,5 @@
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
 # dot-files
 My personal dotfiles for Arch Linux. This repository is not actively maintained.
 
