@@ -174,6 +174,7 @@
     },
     "mpris": {
         "format": "<span color='#1DB954'>{player_icon}</span>  {title}    {status_icon} ",
+        "max-length": 15, // Change this number to fit your screen
         "dynamic-order": [
             "title",
             "artist"
@@ -189,19 +190,20 @@
     },
     "cava": {
         "framerate": 60,
-        "gravity": 50,
+        "gravity": 100,
         "autosens": 0,
         "sensitivity": 3,
         "bars": 8, 
         "lower_cutoff_freq": 50,
         "higher_cutoff_freq": 10000,
         "method": "pulse",
+        "max-length": 10,
         "source": "auto",
         "reverse": false,
         "bar_delimiter": 0,
-        "monstercat": true, 
+        "monstercat": false, 
         "waves": true,
-        "noise_reduction": 0.2,
+        "noise_reduction": 0.15,
         "format-icons": [
             " ",
             "▂",
