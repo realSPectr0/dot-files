@@ -18,6 +18,7 @@ At this point this just shows the evolution of my rice :D
 ## Started using QuickSHELL 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/fd3cb080-e68a-4522-8e96-fbcdb32f8893" />
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/4fc9bd74-cc3a-4efc-8c85-c02144db2c52" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/256ae716-b5c0-49c1-bc5f-1078331b8a6d" />
 
 
 *The terminal colors are changed using pywal and the waybar colors are changed using matugen theming
